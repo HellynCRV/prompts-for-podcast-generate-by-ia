@@ -1,3 +1,7 @@
+# Podcast "Na Linha de Frente"
+
+Um podcast criado com auxílio de Inteligência Artificial, no qual você descobrirá os desafios das grandes instituições bancárias para se reinventar para adotar metodologias ágeis e focar na experiência do cliente.
+
 <p align="center">
 <img 
     src="./assets/cover.png"
