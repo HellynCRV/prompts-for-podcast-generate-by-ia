@@ -4,7 +4,7 @@ Um podcast criado com auxílio de Inteligência Artificial, no qual você descob
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://raw.githubusercontent.com/HellynCRV/prompts-for-podcast-generate-by-ia/13b5224f35359a82bb93c7f23ca9ee48bb5821ea/Capa%20Podcast.jpg"
     width="300"
 />
 </p>
