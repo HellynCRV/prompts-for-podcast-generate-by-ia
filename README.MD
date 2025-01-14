@@ -7,6 +7,7 @@ Um podcast criado com auxílio de Inteligência Artificial, no qual você descob
     src="https://raw.githubusercontent.com/HellynCRV/prompts-for-podcast-generate-by-ia/13b5224f35359a82bb93c7f23ca9ee48bb5821ea/Capa%20Podcast.jpg"
     width="300"
 
+
 # Podcast "Na Linha de Frente"
 
 Um podcast criado com auxilio de Inteligencia Artificial, no qual você descobrirá os desafios entrentados pelas grandes instituições bancárias para se reinventar e adotar metodologias ágeis com foco no cliente.
