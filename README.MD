@@ -9,7 +9,7 @@ Um podcast criado com auxílio de Inteligência Artificial, no qual você descob
 
 
 
-🎙️ [Clique aqui para ouvir o Podcast](https://audiomack.com/anagalli/song/menos-baguna-mais-paz-ep1-iniciando-sua-jornada-minimalista)
+🎙️ [Clique aqui para ouvir o Podcast](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia/commit/13b5224f35359a82bb93c7f23ca9ee48bb5821ea#diff-157d55929c560bde300148ba1d1db753c1815063576cdfbd93625be1d44302a8) 
 
 # 💻 Tecnologias utilizadas no projeto
 - [ChatGPT](https://chatgpt.com/) para geração de conteúdo
