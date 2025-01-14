@@ -8,9 +8,6 @@ Um podcast criado com auxílio de Inteligência Artificial, no qual você descob
     width="300"
 
 
-# Podcast "Na Linha de Frente"
-
-Um podcast criado com auxilio de Inteligencia Artificial, no qual você descobrirá os desafios entrentados pelas grandes instituições bancárias para se reinventar e adotar metodologias ágeis com foco no cliente.
 
 🎙️ [Clique aqui para ouvir o Podcast](https://audiomack.com/anagalli/song/menos-baguna-mais-paz-ep1-iniciando-sua-jornada-minimalista)
 
