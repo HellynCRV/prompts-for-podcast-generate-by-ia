@@ -6,29 +6,6 @@ Um podcast criado com auxílio de Inteligência Artificial, no qual você descob
 <img 
     src="https://raw.githubusercontent.com/HellynCRV/prompts-for-podcast-generate-by-ia/13b5224f35359a82bb93c7f23ca9ee48bb5821ea/Capa%20Podcast.jpg"
     width="300"
-/>
-</p>
-
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
-
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
 
 # Podcast "Na Linha de Frente"
 
