@@ -26,74 +26,35 @@
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
+# Podcast "Na Linha de Frente"
+
+Um podcast criado com auxilio de Inteligencia Artificial, no qual você descobrirá os desafios entrentados pelas grandes instituições bancárias para se reinventar e adotar metodologias ágeis com foco no cliente.
+
+🎙️ [Clique aqui para ouvir o Podcast](https://audiomack.com/anagalli/song/menos-baguna-mais-paz-ep1-iniciando-sua-jornada-minimalista)
+
+# 💻 Tecnologias utilizadas no projeto
+- [ChatGPT](https://chatgpt.com/) para geração de conteúdo
+- [LeonardoAI](https://app.leonardo.ai/) para geração da imagem de capa.
+- [ElevenLabs](https://elevenlabs.io/app/home) para Text-To-Speech
+
+# 🧠 Prompts utilizados
+
+**ChatGPT**
+| Ação | Promtp |
+|------|--------|
+|Criar Nome do Podcast| Você é um roteirista de podcast, e vamos criar um podcast de customer experience, focado na área bancária, mais precisamente no setor de operações, e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para esse podcast |
+|Criar Roteiro do Podcast|Você é um roteirista de podcast, e vamos criar um podcast de customer experience, focado na área bancária, cujo nome é “Na Linga de Frente” e tem um foco em metodologias ágeis, com público alvo de empregados da administração de instituições bancárias.O podcast vai falar sobre os principais desafios para a mudança da cultura organizacional de uma empresa centenária para se adaptar às metodologias ágeis, fazendo um paralelo com instituição que já utilizam essas metodologias.O formato do roteiro deve ser: [Introdução] [Curiosidades] [Desafios] [Conclusão]. Regras: No bloco [Introdução] substitua por introdução iguais as de canais voltados para o tema Customer experience. No bloco [Curiosidades] substitua por uma curiosidade de experiência do cliente em instituições bancárias. No bolo [Desafios] fale sobre como uma instituição bancária de mais de 160 anos de história poderá fazer para reestruturar a empresa secular, no sentido de que ela deixe a sua estrutura extremamente hierarquizada e adote um modelo mais atual, como a metodologia afile, a exemplo do que é utilizado pelo nubank, visando melhor a experiência do cliente sempre buscando uma maior rentabilidade e reduzindo custos. No bloco [Conclusão] substitua por uma despedida cool com o final “Eu sou Hellyn e este foi o "Na Linha de Frente" desta semana”. O podcast deverá ser apresentado somente por uma pessoa chamada Hellyn. 
+Utilize termos de fácil explicação. Regras negativas: Não utilize muitos termos técnicos. Não ultrapasse mais de 5 minutos de duração |
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
-
-## 💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
-
-## ✨ Como foi feito ?
-
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
-
-## 📚 Materiais
-
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+**LeonardoAI**
+| Ação | Prompt |
+|------|--------|
+| Criar capa | Uma mulher de uns 40 anos, de óculos, cabelos longos, com roupa mais formal, em um estúdio de podcast ultra realista |
 
 
-## 🛠️ Instruções de execução
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+## 👨‍💻 Aprendiz
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Hellyn C R Vieira
